@@ -41,7 +41,7 @@ lerna-debug.log*
 !.docker/entrypoint.sh
 !.docker/postgres/DockerFile
 
-
+# Environment
 .env
 .env.test
 .env.development
